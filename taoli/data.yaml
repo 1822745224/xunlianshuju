@@ -1,0 +1,5 @@
+train: ../qinghai/images/train
+val: ../qinghai/images/val
+
+nc: 2
+names: ['ren', 'tou']
